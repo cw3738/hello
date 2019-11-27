@@ -11,7 +11,7 @@ public class HelloApplication {
 
     @RequestMapping("/hello")
     public String hello(){
-        return "Hello K8s 2222";
+        return "Hello K8s 22221111";
     }
 
 
